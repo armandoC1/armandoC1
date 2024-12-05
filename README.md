@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Carlos Hernández!  
 
-<!--
-**armandoC1/armandoC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Desarrollador Full Stack** apasionado por crear aplicaciones dinámicas, eficientes y modernas.  
+✨ Especializado en el desarrollo tanto de **frontend** como de **backend**, siempre buscando soluciones creativas.  
 
-Here are some ideas to get you started:
+## 💻 Tecnologías que manejo
+- **Lenguajes:** Java, JavaScript, TypeScript, C#, PHP  
+- **Frameworks y Librerías:** Next.js, React.js, Spring Boot, Nest.js, .NET, Laravel (básico)  
+- **Bases de datos:** MySQL, SQL Server  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Sobre mí
+- 🌎 Idiomas: Español (nativo) e Inglés (intermedio)  
+- 🚀 Siempre aprendiendo algo nuevo y buscando crecer en el mundo del desarrollo web.
+
+📫 **Contáctame:**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-armando-hernandez-rivera-b51448304/)  
+- ✉️ ch148640@gmail.com
+- 🌎 [Portafolio] (https://carloshernandez.site/)
+
+---
+
+🛠️ **Explora mis proyectos** para ver mi trabajo en acción. ¡Siempre abierto a colaborar en algo interesante!
