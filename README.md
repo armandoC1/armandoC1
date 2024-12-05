@@ -15,7 +15,7 @@
 📫 **Contáctame:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-armando-hernandez-rivera-b51448304/)  
 - ✉️ ch148640@gmail.com
-- 🌎 [Portafolio] (https://carloshernandez.site/)
+- 🌎 [Portafolio](https://carloshernandez.site/)
 
 ---
 
